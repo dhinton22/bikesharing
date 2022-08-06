@@ -1,5 +1,7 @@
 # NYC_Citibike_Challenge
 
+[link to dashboard] https://public.tableau.com/app/profile/dominique.hinton/viz/FInal_16597461338150/NewYorkCitiBikeAnalysis#1
+
 # Overview of the analysis
 
 NYC Citibike data from August 2019 was analyzed to show trends for times of day, days of the week, gender, starting locations, and ending locations. Visualizations were utilized to illustrate the following information:
